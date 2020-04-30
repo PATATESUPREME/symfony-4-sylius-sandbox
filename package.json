@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lightbox2": "^2.11.1",
     "semantic-ui-css": "^2.4.1"
   },
